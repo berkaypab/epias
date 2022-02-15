@@ -1,3 +1,4 @@
+[![Gauge Badge](https://gauge.org/Gauge_Badge.svg)](https://gauge.org)</br>
 "# BDD-Gauge-EPIAS-Sample" 
 ## About this template
 
