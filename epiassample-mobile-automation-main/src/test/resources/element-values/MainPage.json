@@ -1,0 +1,17 @@
+[
+  {
+    "key": "mainPageBreadcrumb",
+    "androidValue": "com.foreks.android.epias:id/fragmentPtfSmf_imageView_redirect",
+    "androidType": "id"
+  },
+  {
+    "key": "datePicker",
+    "androidValue": "com.foreks.android.epias:id/layoutEpiasTopSelectionView_imageViewDate",
+    "androidType": "id"
+  },
+  {
+    "key": "arithmeticAverageCell",
+    "androidValue": "/hierarchy/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/androidx.drawerlayout.widget.DrawerLayout/android.widget.FrameLayout/android.widget.FrameLayout/android.view.ViewGroup/android.widget.LinearLayout/android.widget.FrameLayout[3]/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.LinearLayout/android.widget.FrameLayout/android.widget.HorizontalScrollView/android.widget.LinearLayout/android.widget.LinearLayout[2]/android.widget.LinearLayout[3]/android.widget.TextView[1]",
+    "androidType": "xpath"
+  }
+]

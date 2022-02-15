@@ -1,0 +1,38 @@
+[
+  {
+    "key": "filterStartDate",
+    "value": "//div[@class='filterItemRow']/following-sibling::div",
+    "type": "xpath"
+  },
+  {
+    "key": "filterEndDate",
+    "value": "(//div[@class='filterItemRow']/following-sibling::div)[2]",
+    "type": "xpath"
+  },
+  {
+    "key": "drpDownListDateMonth",
+    "value": "select[class='ui-datepicker-month']",
+    "type": "css"
+  },
+  {
+    "key": "drpDownListDateYear",
+    "value": "select[class='ui-datepicker-year']",
+    "type": "css"
+  },
+  {
+    "key": "dateDayPickerTableLinks",
+    "value": "table[class='ui-datepicker-calendar'] tbody tr td a[class*='ui-state-default']",
+    "type": "css"
+  },
+  {
+    "key": "buttonApplyDateFilter",
+    "value": "div[class='filterItemRow filterButton'] button",
+    "type": "css"
+  },
+  {
+    "key": "dataTableTimeRows",
+    "value": "//tbody[@id='j_idt226:dt_data']/tr/td",
+    "type": "xpath",
+    "index": "2"
+  }
+]

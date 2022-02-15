@@ -1,0 +1,6 @@
+Created by berkay on 15.02.2022
+
+This is a concept file with following syntax for each concept.
+# CONCEPT Get arithmetic average cell value and send an email to <emailAddress>
+* "arithmeticAverageCell" li elementi bul ve değerini "avg" olarak sakla
+* Send email to <emailAddress>

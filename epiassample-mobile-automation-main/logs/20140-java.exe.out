@@ -1,0 +1,151 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 1258milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1258"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 49731"}
+{"logLevel":"info","message":"Listening on port:49731"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.equalsSaveTextByKey' and 'com.epias.Mobile.StepImpl.equalsSaveTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve değerini {} saklanan değer ile karşılaştır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.equalsSaveTextByKey' and 'com.epias.Mobile.StepImpl.equalsSaveTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and compare saved key {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.swipe' and 'com.epias.Mobile.StepImpl.swipe'"}
+{"logLevel":"debug","message":"Found {} kere aşağıya kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.swipe' and 'com.epias.Mobile.StepImpl.swipe'"}
+{"logLevel":"debug","message":"Found Swipe times {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.printListValues' and 'com.epias.Mobile.StepImpl.printListValues'"}
+{"logLevel":"debug","message":"Found Print list values in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.clickByKey' and 'com.epias.Mobile.StepImpl.clickByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.clickByKey' and 'com.epias.Mobile.StepImpl.clickByKey'"}
+{"logLevel":"debug","message":"Found Click element by {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.printNumberOfCategory' and 'com.epias.Mobile.StepImpl.printNumberOfCategory'"}
+{"logLevel":"debug","message":"Found Print category number to console in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.chooseRandomProduct' and 'com.epias.Mobile.StepImpl.chooseRandomProduct'"}
+{"logLevel":"debug","message":"Found {} li elementi rastgele sec in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.chooseRandomProduct' and 'com.epias.Mobile.StepImpl.chooseRandomProduct'"}
+{"logLevel":"debug","message":"Found Choose random in {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.sliderSwipe' and 'com.epias.Mobile.StepImpl.sliderSwipe'"}
+{"logLevel":"debug","message":"Found {} sliderda ,{} noktasından ,{} noktasına kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.sliderSwipe' and 'com.epias.Mobile.StepImpl.sliderSwipe'"}
+{"logLevel":"debug","message":"Found In slider {} slide from Xcoordinate : {} to Xcoordinate : {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.restart' and 'com.epias.Mobile.StepImpl.restart'"}
+{"logLevel":"debug","message":"Found uygulamayı yeniden başlat in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.restart' and 'com.epias.Mobile.StepImpl.restart'"}
+{"logLevel":"debug","message":"Found Restart the application in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.findAndClickAll' and 'com.epias.Mobile.StepImpl.findAndClickAll'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve listedeki elementlerin hepsine tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.findAndClickAll' and 'com.epias.Mobile.StepImpl.findAndClickAll'"}
+{"logLevel":"debug","message":"Found Find by {} and click all of them in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.checkElementNotExists' and 'com.epias.Mobile.StepImpl.checkElementNotExists'"}
+{"logLevel":"debug","message":"Found Check if element {} not exists in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.checkElementNotExists' and 'com.epias.Mobile.StepImpl.checkElementNotExists'"}
+{"logLevel":"debug","message":"Found Element yok mu kontrol et {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.sendMailToRecepient' and 'com.epias.Mobile.StepImpl.sendMailToRecepient'"}
+{"logLevel":"debug","message":"Found Send email to {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.doesElementExistByKey' and 'com.epias.Mobile.StepImpl.doesElementExistByKey'"}
+{"logLevel":"debug","message":"Found {} li elementin yüklenmesini {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.swipeUP' and 'com.epias.Mobile.StepImpl.swipeUP'"}
+{"logLevel":"debug","message":"Found {} kere yukarı doğru kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.swipeUP' and 'com.epias.Mobile.StepImpl.swipeUP'"}
+{"logLevel":"debug","message":"Found Swipe up times {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.clickAndDelete' and 'com.epias.Mobile.StepImpl.clickAndDelete'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve {} kere sil in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.getCategoryNumber' and 'com.epias.Mobile.StepImpl.getCategoryNumber'"}
+{"logLevel":"debug","message":"Found {} get the number of the categories in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.closeKeyboard' and 'com.epias.Mobile.StepImpl.closeKeyboard'"}
+{"logLevel":"debug","message":"Found Close Keyboard in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.swipeRandom' and 'com.epias.Mobile.StepImpl.swipeRandom'"}
+{"logLevel":"debug","message":"Found Rastgele swipe yap in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.swipeRandom' and 'com.epias.Mobile.StepImpl.swipeRandom'"}
+{"logLevel":"debug","message":"Found Random swipe in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.waitBySecond' and 'com.epias.Mobile.StepImpl.waitBySecond'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.waitBySecond' and 'com.epias.Mobile.StepImpl.waitBySecond'"}
+{"logLevel":"debug","message":"Found Wait {} seconds in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.clickByBackButton' and 'com.epias.Mobile.StepImpl.clickByBackButton'"}
+{"logLevel":"debug","message":"Found Geri butonuna bas in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.clickByBackButton' and 'com.epias.Mobile.StepImpl.clickByBackButton'"}
+{"logLevel":"debug","message":"Found Navigate back in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.checkIsEnabledElement' and 'com.epias.Mobile.StepImpl.checkIsEnabledElement'"}
+{"logLevel":"debug","message":"Found Check if {} element enable in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.pointToPointSwipe' and 'com.epias.Mobile.StepImpl.pointToPointSwipe'"}
+{"logLevel":"debug","message":"Found {},{} oranlarından {},{} oranlarına {} kere swipe et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.findAndClick' and 'com.epias.Mobile.StepImpl.findAndClick'"}
+{"logLevel":"debug","message":"Found {} li elementi bul {} kere tıkla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.chooseRandomDifferentProduct' and 'com.epias.Mobile.StepImpl.chooseRandomDifferentProduct'"}
+{"logLevel":"debug","message":"Found {} listesinden {} tanesini random seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.chooseRandomDifferentProduct' and 'com.epias.Mobile.StepImpl.chooseRandomDifferentProduct'"}
+{"logLevel":"debug","message":"Found In {} list randomly select different {} items in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.findByText' and 'com.epias.Mobile.StepImpl.findByText'"}
+{"logLevel":"debug","message":"Found Değeri {} e eşit olan elementli bul in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.findByText' and 'com.epias.Mobile.StepImpl.findByText'"}
+{"logLevel":"debug","message":"Found Find element text equals {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.saveTextByKey' and 'com.epias.Mobile.StepImpl.saveTextByKey'"}
+{"logLevel":"debug","message":"Found {} li elementi bul ve değerini {} olarak sakla in current project scope."}
+{"logLevel":"debug","message":"Comparing 'com.epias.Mobile.StepImpl.saveTextByKey' and 'com.epias.Mobile.StepImpl.saveTextByKey'"}
+{"logLevel":"debug","message":"Found Find element by {} and save text {} in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tGeri butonuna bas : public void clickByBackButton()"}
+{"logLevel":"debug","message":"\tRastgele swipe yap : public void swipeRandom()"}
+{"logLevel":"debug","message":"\tuygulamayı yeniden başlat : public void restart()"}
+{"logLevel":"debug","message":"\tRestart the application : public void restart()"}
+{"logLevel":"debug","message":"\tCheck if {} element enable : public void checkIsEnabledElement(String key)"}
+{"logLevel":"debug","message":"\tSend email to {} : public static void sendMailToRecepient(String email) throws Exception"}
+{"logLevel":"debug","message":"\tFind element by {} and save text {} : public void saveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\tElement yok mu kontrol et {} : public void checkElementNotExists(String key)"}
+{"logLevel":"debug","message":"\t{} sliderda ,{} noktasından ,{} noktasına kaydır : public void sliderSwipe(String key, ınt startPointX, ınt finishPointX)"}
+{"logLevel":"debug","message":"\t{} li elementin yüklenmesini {} saniye bekle : public boolean doesElementExistByKey(String key, ınt time)"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitBySecond(ınt seconds)"}
+{"logLevel":"debug","message":"\tRandom swipe : public void swipeRandom()"}
+{"logLevel":"debug","message":"\tFind element text equals {} : public void findByText(String text) throws Exception"}
+{"logLevel":"debug","message":"\tDeğeri {} e eşit olan elementli bul : public void findByText(String text) throws Exception"}
+{"logLevel":"debug","message":"\t{} li elementi rastgele sec : public void chooseRandomProduct(String key)"}
+{"logLevel":"debug","message":"\tWait {} seconds : public void waitBySecond(ınt seconds)"}
+{"logLevel":"debug","message":"\tFind element by {} and compare saved key {} : public void equalsSaveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\tIn slider {} slide from Xcoordinate : {} to Xcoordinate : {} : public void sliderSwipe(String key, ınt startPointX, ınt finishPointX)"}
+{"logLevel":"debug","message":"\tCheck if element {} not exists : public void checkElementNotExists(String key)"}
+{"logLevel":"debug","message":"\tSwipe up times {} : public void swipeUP(ınt times)"}
+{"logLevel":"debug","message":"\t{} get the number of the categories : public void getCategoryNumber(String key)"}
+{"logLevel":"debug","message":"\tPrint list values : public void printListValues()"}
+{"logLevel":"debug","message":"\tFind by {} and click all of them : public void findAndClickAll(String key)"}
+{"logLevel":"debug","message":"\t{} listesinden {} tanesini random seç : public void chooseRandomDifferentProduct(String key, ınt quantity)"}
+{"logLevel":"debug","message":"\tChoose random in {} : public void chooseRandomProduct(String key)"}
+{"logLevel":"debug","message":"\tNavigate back : public void clickByBackButton()"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve {} kere sil : public void clickAndDelete(String key, ınt times)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve değerini {} olarak sakla : public void saveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\t{} kere aşağıya kaydır : public void swipe(ınt times)"}
+{"logLevel":"debug","message":"\t{} kere yukarı doğru kaydır : public void swipeUP(ınt times)"}
+{"logLevel":"debug","message":"\tIn {} list randomly select different {} items : public void chooseRandomDifferentProduct(String key, ınt quantity)"}
+{"logLevel":"debug","message":"\tClose Keyboard : public void closeKeyboard()"}
+{"logLevel":"debug","message":"\t{},{} oranlarından {},{} oranlarına {} kere swipe et : public void pointToPointSwipe(ınt startX, ınt startY, ınt endX, ınt endY, ınt count)"}
+{"logLevel":"debug","message":"\tClick element by {} : public void clickByKey(String key)"}
+{"logLevel":"debug","message":"\tPrint category number to console : public void printNumberOfCategory()"}
+{"logLevel":"debug","message":"\t{} li elementi bul {} kere tıkla : public void findAndClick(String key, ınt times)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve listedeki elementlerin hepsine tıkla : public void findAndClickAll(String key)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve değerini {} saklanan değer ile karşılaştır : public void equalsSaveTextByKey(String key, String saveKey)"}
+{"logLevel":"debug","message":"\t{} li elementi bul ve tıkla : public void clickByKey(String key)"}
+{"logLevel":"debug","message":"\tSwipe times {} : public void swipe(ınt times)"}
+Test Started
+2022-02-15 03:29:10 INFO  HookImpl:43 beforeScenario - Local Browser
+Şub 15, 2022 3:29:19 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Wait {} seconds' using 'class com.epias.Mobile.StepImpl.waitBySecond"}
+2022-02-15 03:29:19 INFO  StepImpl:167 waitBySecond - 5 seconds waiting..
+2022-02-15 03:29:24 INFO  StepImpl:169 waitBySecond - 5 seconds waited.
+{"logLevel":"debug","message":"Executing 'Click element by {}' using 'class com.epias.Mobile.StepImpl.clickByKey"}
+2022-02-15 03:29:26 INFO  StepImpl:99 clickByKey - mainPageBreadcrumb clicked.
+{"logLevel":"debug","message":"Executing 'Wait {} seconds' using 'class com.epias.Mobile.StepImpl.waitBySecond"}
+2022-02-15 03:29:26 INFO  StepImpl:167 waitBySecond - 3 seconds waiting..
+2022-02-15 03:29:29 INFO  StepImpl:169 waitBySecond - 3 seconds waited.
+{"logLevel":"debug","message":"Executing '{} li elementi bul ve değerini {} olarak sakla' using 'class com.epias.Mobile.StepImpl.saveTextByKey"}
+2022-02-15 03:29:30 INFO  StepImpl:148 saveTextByKey - avg variable is stored with: 1.523,54
+{"logLevel":"debug","message":"Executing 'Send email to {}' using 'class com.epias.Mobile.StepImpl.sendMailToRecepient"}
+Preparing to send mail
+Message sent successfully
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

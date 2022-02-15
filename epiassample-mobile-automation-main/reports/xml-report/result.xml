@@ -1,0 +1,8 @@
+<testsuites>
+	<testsuite id="1" tests="1" failures="0" package="C:\Users\testinium\Desktop\epiassample-mobile-automation-main\epiassample-mobile-automation-main\specs\epias.spec" time="30.453" timestamp="2022-02-15T03:39:02" name="Specification Regression" errors="0" hostname="DESKTOP-D471R33">
+		<properties></properties>
+		<testcase classname="Specification Regression" name=" EPIAS MOBILE REGRESSION" time="30.453"></testcase>
+		<system-out></system-out>
+		<system-err></system-err>
+	</testsuite>
+</testsuites>

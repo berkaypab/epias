@@ -1,0 +1,14 @@
+# CONCEPT Open Epias mobile
+* Wait "5" seconds
+
+# CONCEPT Open chart PTF/SMF
+* Click element by "mainPageBreadcrumb"
+
+# CONCEPT Select given date from date picker
+* Wait "3" seconds
+ Click element by "datePicker"
+ "313","894" oranlarından "313","987" oranlarına "3" kere swipe et
+
+ App has no iteractable elements for wheel date picker. Swipe func didn't respond correctly.
+
+

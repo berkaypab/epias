@@ -1,0 +1,39 @@
+Created by berkay on 15.02.2022
+
+This is a concept file with following syntax for each concept.
+# CONCEPT Navigate to home page and close pop ups
+* Navigate to main page
+
+# CONCEPT User opens the actual amount of electricity production tab from sidebar
+* Click to element "sideBarLink_MenuItem_ELEKTRIK_URETIM"
+* Click to element "sideBarLink_MenuItem_subMenu_GERCEKLESEN_URETIM"
+* Click to element "sideBarLink_MenuItem_subMenu_GERCEK_ZAMANLI_URETIM"
+
+# fitre tıklama üretim verilerini alma
+* Click to element "filterStartDate"
+* Select month from "drpDownListDateMonth" dropdown by "3"
+* Select year from "drpDownListDateYear" dropdown by "2021"
+* Pick "30".day of month from "dateDayPickerTableLinks"
+* Click to element "filterEndDate"
+* Select month from "drpDownListDateMonth" dropdown by "3"
+* Select year from "drpDownListDateYear" dropdown by "2021"
+* Pick "30".day of month from "dateDayPickerTableLinks"
+* Click to element "buttonApplyDateFilter"
+* Wait "1000" milliseconds
+
+# CONCEPT Store for production
+* Store values in production hash map
+* Sort production map and print key value pairs
+
+
+# CONCEPT Store for consumption
+* Store values in consumption hash map
+* Sort consumption map and print key value pairs
+
+# CONCEPT User opens the actual amount of electricity consumption tab from sidebar
+* Click to element "sideBarLink_MenuItem_ELEKTRIK_TUKETIM"
+* Click to element "sideBarLink_MenuItem_subMenu_GERCEKLESEN_TUKETIM"
+* Click to element "sideBarLinkMenuItemSubMenu_GERCEK_ZAMANLI_TUKETIM"
+
+# CONCEPT Production and Consumption hourly difference calculation
+* Calculate hourly difference between production and consumption

@@ -1,0 +1,33 @@
+[
+  {
+    "key": "sideBarLink_MenuItem_ELEKTRIK_URETIM",
+    "value": "li[id='menuform:rm_orientation2'] a",
+    "type": "css"
+  },
+  {
+    "key": "sideBarLink_MenuItem_ELEKTRIK_TUKETIM",
+    "value": "li[id='menuform:rm_orientation3'] a",
+    "type": "css"
+  },
+  {
+    "key": "sideBarLink_MenuItem_subMenu_GERCEKLESEN_URETIM",
+    "value": "li[id='menuform:j_idt77'] a",
+    "type": "css"
+  },
+  {
+    "key": "sideBarLink_MenuItem_subMenu_GERCEKLESEN_TUKETIM",
+    "value": "li[id='menuform:j_idt84'] a",
+    "type": "css"
+  },
+  {
+    "key": "sideBarLink_MenuItem_subMenu_GERCEK_ZAMANLI_URETIM",
+    "value": "li[id='menuform:j_idt78'] a",
+    "type": "css"
+  },
+  {
+    "key": "sideBarLinkMenuItemSubMenu_GERCEK_ZAMANLI_TUKETIM",
+    "value": "li[id='menuform:j_idt85'] a",
+    "type": "css"
+  }
+
+]

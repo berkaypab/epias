@@ -1,0 +1,260 @@
+{"logLevel":"debug","message":"multithreading is set to true"}
+{"logLevel":"debug","message":"multithreading enabled, number of threads=8"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+{"logLevel":"debug","message":"gauge-java took 990milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 990"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 58104"}
+{"logLevel":"info","message":"Listening on port:58104"}
+[pool-1-thread-1] INFO org.reflections.Reflections - Reflections took 4108 ms to scan 89 urls, producing 10466 keys and 57126 values 
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.checkElementContainsText' and 'org.example.StepImplementation.checkElementContainsText'"}
+{"logLevel":"debug","message":"Found Check if element {} contains text {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.checkElementContainsText' and 'org.example.StepImplementation.checkElementContainsText'"}
+{"logLevel":"debug","message":"Found {} elementi {} değerini içeriyor mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.checkElementContainsText' and 'org.example.StepImplementation.checkElementContainsText'"}
+{"logLevel":"debug","message":"Found Check if title contains text {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.checkElementContainsText' and 'org.example.StepImplementation.checkElementContainsText'"}
+{"logLevel":"debug","message":"Found Title {} değerini içeriyor mu kontrol et in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.jsClicker' and 'org.example.StepImplementation.jsClicker'"}
+{"logLevel":"debug","message":"Found Click with js method {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.pickDateOfDaysFromPicker' and 'org.example.StepImplementation.pickDateOfDaysFromPicker'"}
+{"logLevel":"debug","message":"Found Pick {}.day of month from {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.selectFromAutoSuggestiveDropDown' and 'org.example.StepImplementation.selectFromAutoSuggestiveDropDown'"}
+{"logLevel":"debug","message":"Found Select address from auto suggestive dropdown with {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.scrollToElement' and 'org.example.StepImplementation.scrollToElement'"}
+{"logLevel":"debug","message":"Found {} alanına kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickElement' and 'org.example.StepImplementation.clickElement'"}
+{"logLevel":"debug","message":"Found Click to element {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.clickElement' and 'org.example.StepImplementation.clickElement'"}
+{"logLevel":"debug","message":"Found Elementine tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.hoverAllMenuLinksWithJs' and 'org.example.StepImplementation.hoverAllMenuLinksWithJs'"}
+{"logLevel":"debug","message":"Found Hover all elements in {} with js in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.chooseRandomElementFromList' and 'org.example.StepImplementation.chooseRandomElementFromList'"}
+{"logLevel":"debug","message":"Found {} menu listesinden rasgele seç in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.selectYearFromKeyByValue' and 'org.example.StepImplementation.selectYearFromKeyByValue'"}
+{"logLevel":"debug","message":"Found Select year from {} dropdown by {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.checkRelativePosition' and 'org.example.StepImplementation.checkRelativePosition'"}
+{"logLevel":"debug","message":"Found Check position {} relative to {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.javascriptClickerWithCss' and 'org.example.StepImplementation.javascriptClickerWithCss'"}
+{"logLevel":"debug","message":"Found Click with javascript to css {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.javascriptClickerWithCss' and 'org.example.StepImplementation.javascriptClickerWithCss'"}
+{"logLevel":"debug","message":"Found Javascript ile css tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.navigateToHomePage' and 'org.example.StepImplementation.navigateToHomePage'"}
+{"logLevel":"debug","message":"Found Navigate to home page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.hoverByGivenElement' and 'org.example.StepImplementation.hoverByGivenElement'"}
+{"logLevel":"debug","message":"Found Hover by given element {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.differenceBetweenProductionAndConsumption' and 'org.example.StepImplementation.differenceBetweenProductionAndConsumption'"}
+{"logLevel":"debug","message":"Found Calculate hourly difference between production and consumption in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.brokenLinkCheck' and 'org.example.StepImplementation.brokenLinkCheck'"}
+{"logLevel":"debug","message":"Found Check broken links with {} element in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.sendKeysToGivenElement' and 'org.example.StepImplementation.sendKeysToGivenElement'"}
+{"logLevel":"debug","message":"Found Send {} Keys to given element {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.isEnableSection' and 'org.example.StepImplementation.isEnableSection'"}
+{"logLevel":"debug","message":"Found Element with {} is enable on website in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.isEnableSection' and 'org.example.StepImplementation.isEnableSection'"}
+{"logLevel":"debug","message":"Found {} li element sayfada enable mı kontrol et  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.s' and 'org.example.StepImplementation.s'"}
+{"logLevel":"debug","message":"Found Select {} list with {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.switchTabsUsingPartOfUrl' and 'org.example.StepImplementation.switchTabsUsingPartOfUrl'"}
+{"logLevel":"debug","message":"Found Check if new tab has verified url {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.isDisplayedSection' and 'org.example.StepImplementation.isDisplayedSection'"}
+{"logLevel":"debug","message":"Found Element with {} is displayed on website in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.isDisplayedSection' and 'org.example.StepImplementation.isDisplayedSection'"}
+{"logLevel":"debug","message":"Found {} li element sayfada görüntüleniyor mu kontrol et  in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.waitUntilElementsLoadedAndCheckSortingSuccessful' and 'org.example.StepImplementation.waitUntilElementsLoadedAndCheckSortingSuccessful'"}
+{"logLevel":"debug","message":"Found Wait until elements loaded {} and verify sorting in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.storeProductionValuesInMap' and 'org.example.StepImplementation.storeProductionValuesInMap'"}
+{"logLevel":"debug","message":"Found Store values in production hash map in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.checkElementAttributeExists' and 'org.example.StepImplementation.checkElementAttributeExists'"}
+{"logLevel":"debug","message":"Found Check if element {} has attribute {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.checkElementAttributeExists' and 'org.example.StepImplementation.checkElementAttributeExists'"}
+{"logLevel":"debug","message":"Found {} elementi {} niteliğine sahip mi in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.storeConsumptionValuesInMap' and 'org.example.StepImplementation.storeConsumptionValuesInMap'"}
+{"logLevel":"debug","message":"Found Store values in consumption hash map in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.navigateToGivenPage' and 'org.example.StepImplementation.navigateToGivenPage'"}
+{"logLevel":"debug","message":"Found Navigate to given page {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.waitUntilImageUploadedAndClickCheckBox' and 'org.example.StepImplementation.waitUntilImageUploadedAndClickCheckBox'"}
+{"logLevel":"debug","message":"Found Wait until image uploaded and click checkbox {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.javascriptClickerWithXpath' and 'org.example.StepImplementation.javascriptClickerWithXpath'"}
+{"logLevel":"debug","message":"Found Click with javascript to xpath {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.javascriptClickerWithXpath' and 'org.example.StepImplementation.javascriptClickerWithXpath'"}
+{"logLevel":"debug","message":"Found Javascript ile xpath tıkla {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.getElementWithKeyIfExistsWithMessage' and 'org.example.StepImplementation.getElementWithKeyIfExistsWithMessage'"}
+{"logLevel":"debug","message":"Found Check if element {} exists else print message {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.getElementWithKeyIfExistsWithMessage' and 'org.example.StepImplementation.getElementWithKeyIfExistsWithMessage'"}
+{"logLevel":"debug","message":"Found Element {} var mı kontrol et yoksa hata mesajı ver {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.select' and 'org.example.StepImplementation.select'"}
+{"logLevel":"debug","message":"Found Select from {} list with {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.selectMonthFromKeyByValue' and 'org.example.StepImplementation.selectMonthFromKeyByValue'"}
+{"logLevel":"debug","message":"Found Select month from {} dropdown by {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.sortProductionMapAndPrint' and 'org.example.StepImplementation.sortProductionMapAndPrint'"}
+{"logLevel":"debug","message":"Found Sort production map and print key value pairs in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.isExistOnCartPage' and 'org.example.StepImplementation.isExistOnCartPage'"}
+{"logLevel":"debug","message":"Found {} product is exist on cart page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.warningMessageShouldBe' and 'org.example.StepImplementation.warningMessageShouldBe'"}
+{"logLevel":"debug","message":"Found Given element {} dynamic text area warning message should be in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.waitByMilliSeconds' and 'org.example.StepImplementation.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found Wait {} milliseconds in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.waitByMilliSeconds' and 'org.example.StepImplementation.waitByMilliSeconds'"}
+{"logLevel":"debug","message":"Found {} milisaniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.validateProductsSizeEachScrollDown' and 'org.example.StepImplementation.validateProductsSizeEachScrollDown'"}
+{"logLevel":"debug","message":"Found {} has next degeri true ise her sayfada bulunan {} li key ile 60 urun yuklendigini dogrula in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.validateProductsSizeEachScrollDown' and 'org.example.StepImplementation.validateProductsSizeEachScrollDown'"}
+{"logLevel":"debug","message":"Found If {} element's attribute value true then verify 60 products loaded in every page with {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.asdf' and 'org.example.StepImplementation.asdf'"}
+{"logLevel":"debug","message":"Found Check if {} element's attribute value {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.textRangeAndWarningMessageShouldBe' and 'org.example.StepImplementation.textRangeAndWarningMessageShouldBe'"}
+{"logLevel":"debug","message":"Found Given element {} dynamic text area range should be max {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.uploadImage' and 'org.example.StepImplementation.uploadImage'"}
+{"logLevel":"debug","message":"Found Upload file to given {} in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementationHomePage.navigateToMainPage' and 'org.example.StepImplementationHomePage.navigateToMainPage'"}
+{"logLevel":"debug","message":"Found Navigate to main page in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.scrollToElementWithJs' and 'org.example.StepImplementation.scrollToElementWithJs'"}
+{"logLevel":"debug","message":"Found Scroll to {} field in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.scrollToElementWithJs' and 'org.example.StepImplementation.scrollToElementWithJs'"}
+{"logLevel":"debug","message":"Found {} alanına js ile kaydır in current project scope."}
+{"logLevel":"debug","message":"Comparing 'org.example.StepImplementation.sortConsumptionMapAndPrint' and 'org.example.StepImplementation.sortConsumptionMapAndPrint'"}
+{"logLevel":"debug","message":"Found Sort consumption map and print key value pairs in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tJavascript ile css tıkla {} : public void javascriptClickerWithCss(String css)"}
+{"logLevel":"debug","message":"\tCheck if element {} has attribute {} : public void checkElementAttributeExists(String key, String attribute)"}
+{"logLevel":"debug","message":"\tGiven element {} dynamic text area range should be max {} : public void textRangeAndWarningMessageShouldBe(String key, String limit)"}
+{"logLevel":"debug","message":"\tCheck if {} element's attribute value {} : public void asdf(String key, String active)"}
+{"logLevel":"debug","message":"\tElement {} var mı kontrol et yoksa hata mesajı ver {} : public void getElementWithKeyIfExistsWithMessage(String key, String message)"}
+{"logLevel":"debug","message":"\tSelect year from {} dropdown by {} : public void selectYearFromKeyByValue(String key, String value)"}
+{"logLevel":"debug","message":"\tCheck if new tab has verified url {} : public void switchTabsUsingPartOfUrl(String key)"}
+{"logLevel":"debug","message":"\tCheck if title contains text {} : public void checkElementContainsText(String expectedText)"}
+{"logLevel":"debug","message":"\tGiven element {} dynamic text area warning message should be : public void warningMessageShouldBe(String key)"}
+{"logLevel":"debug","message":"\t{} has next degeri true ise her sayfada bulunan {} li key ile 60 urun yuklendigini dogrula : public void validateProductsSizeEachScrollDown(String key, String elements) throws InterruptedException"}
+{"logLevel":"debug","message":"\tSelect month from {} dropdown by {} : public void selectMonthFromKeyByValue(String key, String value)"}
+{"logLevel":"debug","message":"\tStore values in consumption hash map : public void storeConsumptionValuesInMap()"}
+{"logLevel":"debug","message":"\tScroll to {} field : public void scrollToElementWithJs(String key)"}
+{"logLevel":"debug","message":"\tWait until elements loaded {} and verify sorting : public void waitUntilElementsLoadedAndCheckSortingSuccessful(String key)"}
+{"logLevel":"debug","message":"\tClick with js method {} : public void jsClicker(String key)"}
+{"logLevel":"debug","message":"\tStore values in production hash map : public void storeProductionValuesInMap()"}
+{"logLevel":"debug","message":"\tNavigate to home page : public void navigateToHomePage()"}
+{"logLevel":"debug","message":"\tIf {} element's attribute value true then verify 60 products loaded in every page with {} : public void validateProductsSizeEachScrollDown(String key, String elements) throws InterruptedException"}
+{"logLevel":"debug","message":"\tClick with javascript to xpath {} : public void javascriptClickerWithXpath(String xpath)"}
+{"logLevel":"debug","message":"\tHover all elements in {} with js : public void hoverAllMenuLinksWithJs(String key)"}
+{"logLevel":"debug","message":"\tClick with javascript to css {} : public void javascriptClickerWithCss(String css)"}
+{"logLevel":"debug","message":"\tWait {} milliseconds : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\tCalculate hourly difference between production and consumption : public void differenceBetweenProductionAndConsumption()"}
+{"logLevel":"debug","message":"\t{} milisaniye bekle : public void waitByMilliSeconds(long milliseconds)"}
+{"logLevel":"debug","message":"\tNavigate to given page {} : public void navigateToGivenPage(String string)"}
+{"logLevel":"debug","message":"\t{} elementi {} değerini içeriyor mu kontrol et : public void checkElementContainsText(String key, String expectedText)"}
+{"logLevel":"debug","message":"\tWait until image uploaded and click checkbox {} : public void waitUntilImageUploadedAndClickCheckBox(String key)"}
+{"logLevel":"debug","message":"\tSelect from {} list with {} : public void select(String key, String text)"}
+{"logLevel":"debug","message":"\tCheck if element {} exists else print message {} : public void getElementWithKeyIfExistsWithMessage(String key, String message)"}
+{"logLevel":"debug","message":"\tUpload file to given {} : public void uploadImage(String key) throws AWTException, InterruptedException"}
+{"logLevel":"debug","message":"\tCheck broken links with {} element : public void brokenLinkCheck(String key)"}
+{"logLevel":"debug","message":"\tHover by given element {} : public void hoverByGivenElement(String key)"}
+{"logLevel":"debug","message":"\t{} li element sayfada görüntüleniyor mu kontrol et  : public void isDisplayedSection(String key)"}
+{"logLevel":"debug","message":"\t{} alanına kaydır : public void scrollToElement(String key)"}
+{"logLevel":"debug","message":"\tTitle {} değerini içeriyor mu kontrol et : public void checkElementContainsText(String expectedText)"}
+{"logLevel":"debug","message":"\tElement with {} is enable on website : public void isEnableSection(String key)"}
+{"logLevel":"debug","message":"\tSend {} Keys to given element {} : public void sendKeysToGivenElement(String text, String key)"}
+{"logLevel":"debug","message":"\t{} elementi {} niteliğine sahip mi : public void checkElementAttributeExists(String key, String attribute)"}
+{"logLevel":"debug","message":"\tJavascript ile xpath tıkla {} : public void javascriptClickerWithXpath(String xpath)"}
+{"logLevel":"debug","message":"\t{} alanına js ile kaydır : public void scrollToElementWithJs(String key)"}
+{"logLevel":"debug","message":"\t{} product is exist on cart page : public void isExistOnCartPage(String key)"}
+{"logLevel":"debug","message":"\tSelect {} list with {} : public void s(String key, String option)"}
+{"logLevel":"debug","message":"\tCheck if element {} contains text {} : public void checkElementContainsText(String key, String expectedText)"}
+{"logLevel":"debug","message":"\t{} menu listesinden rasgele seç : public void chooseRandomElementFromList(String key)"}
+{"logLevel":"debug","message":"\tSort production map and print key value pairs : public void sortProductionMapAndPrint()"}
+{"logLevel":"debug","message":"\tClick to element {} : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\t{} li element sayfada enable mı kontrol et  : public void isEnableSection(String key)"}
+{"logLevel":"debug","message":"\tCheck position {} relative to {} : public Boolean checkRelativePosition(String key1, String key2)"}
+{"logLevel":"debug","message":"\tSort consumption map and print key value pairs : public void sortConsumptionMapAndPrint()"}
+{"logLevel":"debug","message":"\tElement with {} is displayed on website : public void isDisplayedSection(String key)"}
+{"logLevel":"debug","message":"\tSelect address from auto suggestive dropdown with {} : public void selectFromAutoSuggestiveDropDown(String key)"}
+{"logLevel":"debug","message":"\tPick {}.day of month from {} : public void pickDateOfDaysFromPicker(String value, String key)"}
+{"logLevel":"debug","message":"\tElementine tıkla {} : public void clickElement(String key)"}
+{"logLevel":"debug","message":"\tNavigate to main page : public void navigateToMainPage()"}
+[pool-2-thread-1] INFO org.reflections.Reflections - Reflections took 2283 ms to scan 89 urls, producing 10387 keys and 48282 values 
+[pool-2-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 98.0.4758.80 (resolved driver for Chrome 98)
+[pool-2-thread-1] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\testinium\.cache\selenium\chromedriver\win32\98.0.4758.80\chromedriver.exe
+Starting ChromeDriver 98.0.4758.80 (7f0488e8ba0d8e019187c6325a16c29d9b7f4989-refs/branch-heads/4758@{#972}) on port 5193
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+[1644916187.334][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+[1644916187.334][WARNING]: Deprecated chrome option is ignored: useAutomationExtension
+Şub 15, 2022 12:09:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Navigate to main page' using 'class org.example.StepImplementationHomePage.navigateToMainPage"}
+[pool-2-thread-1] INFO org.example.StepImplementation - Navigated to main page url :https://seffaflik.epias.com.tr/
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - sideBarLink_MenuItem_ELEKTRIK_URETIM elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - sideBarLink_MenuItem_subMenu_GERCEKLESEN_URETIM elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - sideBarLink_MenuItem_subMenu_GERCEK_ZAMANLI_URETIM elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - filterStartDate elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Select month from {} dropdown by {}' using 'class org.example.StepImplementation.selectMonthFromKeyByValue"}
+[pool-2-thread-1] INFO org.example.StepImplementation - Selected from dropdown
+{"logLevel":"debug","message":"Executing 'Select year from {} dropdown by {}' using 'class org.example.StepImplementation.selectYearFromKeyByValue"}
+[pool-2-thread-1] INFO org.example.StepImplementation - Selected from dropdown
+{"logLevel":"debug","message":"Executing 'Pick {}.day of month from {}' using 'class org.example.StepImplementation.pickDateOfDaysFromPicker"}
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - filterEndDate elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Select month from {} dropdown by {}' using 'class org.example.StepImplementation.selectMonthFromKeyByValue"}
+[pool-2-thread-1] INFO org.example.StepImplementation - Selected from dropdown
+{"logLevel":"debug","message":"Executing 'Select year from {} dropdown by {}' using 'class org.example.StepImplementation.selectYearFromKeyByValue"}
+[pool-2-thread-1] INFO org.example.StepImplementation - Selected from dropdown
+{"logLevel":"debug","message":"Executing 'Pick {}.day of month from {}' using 'class org.example.StepImplementation.pickDateOfDaysFromPicker"}
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - buttonApplyDateFilter elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Wait {} milliseconds' using 'class org.example.StepImplementation.waitByMilliSeconds"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 1000 milisaniye bekleniyor.
+{"logLevel":"debug","message":"Executing 'Store values in production hash map' using 'class org.example.StepImplementation.storeProductionValuesInMap"}
+{"logLevel":"debug","message":"Executing 'Sort production map and print key value pairs' using 'class org.example.StepImplementation.sortProductionMapAndPrint"}
+[pool-2-thread-1] INFO org.example.StepImplementation - Elektrik uretim saatlik degerleri
+[pool-2-thread-1] INFO org.example.StepImplementation - Printing map values
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - sideBarLink_MenuItem_ELEKTRIK_TUKETIM elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - sideBarLink_MenuItem_subMenu_GERCEKLESEN_TUKETIM elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - sideBarLinkMenuItemSubMenu_GERCEK_ZAMANLI_TUKETIM elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - filterStartDate elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Select month from {} dropdown by {}' using 'class org.example.StepImplementation.selectMonthFromKeyByValue"}
+[pool-2-thread-1] INFO org.example.StepImplementation - Selected from dropdown
+{"logLevel":"debug","message":"Executing 'Select year from {} dropdown by {}' using 'class org.example.StepImplementation.selectYearFromKeyByValue"}
+[pool-2-thread-1] INFO org.example.StepImplementation - Selected from dropdown
+{"logLevel":"debug","message":"Executing 'Pick {}.day of month from {}' using 'class org.example.StepImplementation.pickDateOfDaysFromPicker"}
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - filterEndDate elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Select month from {} dropdown by {}' using 'class org.example.StepImplementation.selectMonthFromKeyByValue"}
+[pool-2-thread-1] INFO org.example.StepImplementation - Selected from dropdown
+{"logLevel":"debug","message":"Executing 'Select year from {} dropdown by {}' using 'class org.example.StepImplementation.selectYearFromKeyByValue"}
+[pool-2-thread-1] INFO org.example.StepImplementation - Selected from dropdown
+{"logLevel":"debug","message":"Executing 'Pick {}.day of month from {}' using 'class org.example.StepImplementation.pickDateOfDaysFromPicker"}
+{"logLevel":"debug","message":"Executing 'Click to element {}' using 'class org.example.StepImplementation.clickElement"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 500 milisaniye bekleniyor.
+[pool-2-thread-1] INFO org.example.StepImplementation - buttonApplyDateFilter elementine tıklandı.
+{"logLevel":"debug","message":"Executing 'Wait {} milliseconds' using 'class org.example.StepImplementation.waitByMilliSeconds"}
+[pool-2-thread-1] INFO org.example.StepImplementation - 1000 milisaniye bekleniyor.
+{"logLevel":"debug","message":"Executing 'Store values in consumption hash map' using 'class org.example.StepImplementation.storeConsumptionValuesInMap"}
+{"logLevel":"debug","message":"Executing 'Sort consumption map and print key value pairs' using 'class org.example.StepImplementation.sortConsumptionMapAndPrint"}
+[pool-2-thread-1] INFO org.example.StepImplementation - Elektrik tuketim saatlik degerleri
+[pool-2-thread-1] INFO org.example.StepImplementation - Printing map values
+{"logLevel":"debug","message":"Executing 'Calculate hourly difference between production and consumption' using 'class org.example.StepImplementation.differenceBetweenProductionAndConsumption"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}
